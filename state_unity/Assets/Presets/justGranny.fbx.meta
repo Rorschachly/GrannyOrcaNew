@@ -1,0 +1,528 @@
+fileFormatVersion: 2
+guid: 8bf55618136cba4459d0d947ae7ce4a4
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: center_back_blowhole_1_bind_joint
+    100002: center_back_blowhole_2_bind_joint
+    100004: center_back_blowhole_3_bind_joint
+    100006: center_back_blowhole_base_bind_joint
+    100008: center_back_blowhole_base_end_joint
+    100010: center_chest_bind_joint
+    100012: center_dorsal_fin_1_bind_joint
+    100014: center_dorsal_fin_2_bind_joint
+    100016: center_dorsal_fin_3_bind_joint
+    100018: center_dorsal_fin_end_joint
+    100020: center_front_blowhole_1_bind_joint
+    100022: center_front_blowhole_2_bind_joint
+    100024: center_front_blowhole_3_bind_joint
+    100026: center_front_blowhole_base_bind_joint
+    100028: center_front_blowhole_base_end_joint
+    100030: center_head_bind_joint
+    100032: center_head_end_joint
+    100034: center_jaw_bind_joint
+    100036: center_jaw_end_joint
+    100038: center_neck_bind_joint
+    100040: center_root_bind_joint
+    100042: center_tail_1_bind_joint
+    100044: center_tail_2_bind_joint
+    100046: center_tail_3_bind_joint
+    100048: center_tail_4_bind_joint
+    100050: center_tail_5_bind_joint
+    100052: center_tail_6_bind_joint
+    100054: center_tail_end_joint
+    100056: granny_body_geo
+    100058: granny_body_grp
+    100060: granny_gum_lower
+    100062: granny_gum_upper
+    100064: granny_left_eye_geo
+    100066: granny_right_eye_geo
+    100068: granny_root_bind_joint
+    100070: granny_teeth_lower
+    100072: granny_teeth_upper
+    100074: //RootNode
+    100076: left_eye_bind_joint
+    100078: left_eye_end_joint
+    100080: left_flipper_1_bind_joint
+    100082: left_flipper_2_bind_joint
+    100084: left_flipper_3_bind_joint
+    100086: left_flipper_end_joint
+    100088: left_fluke_1_bind_joint
+    100090: left_fluke_2_bind_joint
+    100092: left_fluke_3_bind_joint
+    100094: left_fluke_end_joint
+    100096: right_eye_bind_joint
+    100098: right_eye_end_joint
+    100100: right_flipper_1_bind_joint
+    100102: right_flipper_2_bind_joint
+    100104: right_flipper_3_bind_joint
+    100106: right_flipper_end_joint
+    100108: right_fluke_1_bind_joint
+    100110: right_fluke_2_bind_joint
+    100112: right_fluke_3_bind_joint
+    100114: right_fluke_end_joint
+    400000: center_back_blowhole_1_bind_joint
+    400002: center_back_blowhole_2_bind_joint
+    400004: center_back_blowhole_3_bind_joint
+    400006: center_back_blowhole_base_bind_joint
+    400008: center_back_blowhole_base_end_joint
+    400010: center_chest_bind_joint
+    400012: center_dorsal_fin_1_bind_joint
+    400014: center_dorsal_fin_2_bind_joint
+    400016: center_dorsal_fin_3_bind_joint
+    400018: center_dorsal_fin_end_joint
+    400020: center_front_blowhole_1_bind_joint
+    400022: center_front_blowhole_2_bind_joint
+    400024: center_front_blowhole_3_bind_joint
+    400026: center_front_blowhole_base_bind_joint
+    400028: center_front_blowhole_base_end_joint
+    400030: center_head_bind_joint
+    400032: center_head_end_joint
+    400034: center_jaw_bind_joint
+    400036: center_jaw_end_joint
+    400038: center_neck_bind_joint
+    400040: center_root_bind_joint
+    400042: center_tail_1_bind_joint
+    400044: center_tail_2_bind_joint
+    400046: center_tail_3_bind_joint
+    400048: center_tail_4_bind_joint
+    400050: center_tail_5_bind_joint
+    400052: center_tail_6_bind_joint
+    400054: center_tail_end_joint
+    400056: granny_body_geo
+    400058: granny_body_grp
+    400060: granny_gum_lower
+    400062: granny_gum_upper
+    400064: granny_left_eye_geo
+    400066: granny_right_eye_geo
+    400068: granny_root_bind_joint
+    400070: granny_teeth_lower
+    400072: granny_teeth_upper
+    400074: //RootNode
+    400076: left_eye_bind_joint
+    400078: left_eye_end_joint
+    400080: left_flipper_1_bind_joint
+    400082: left_flipper_2_bind_joint
+    400084: left_flipper_3_bind_joint
+    400086: left_flipper_end_joint
+    400088: left_fluke_1_bind_joint
+    400090: left_fluke_2_bind_joint
+    400092: left_fluke_3_bind_joint
+    400094: left_fluke_end_joint
+    400096: right_eye_bind_joint
+    400098: right_eye_end_joint
+    400100: right_flipper_1_bind_joint
+    400102: right_flipper_2_bind_joint
+    400104: right_flipper_3_bind_joint
+    400106: right_flipper_end_joint
+    400108: right_fluke_1_bind_joint
+    400110: right_fluke_2_bind_joint
+    400112: right_fluke_3_bind_joint
+    400114: right_fluke_end_joint
+    2100000: body_texture
+    2100002: eye_texture
+    2100004: teeth_texture
+    2100006: gum_texture
+    2300000: granny_body_geo
+    2300002: granny_gum_lower
+    2300004: granny_gum_upper
+    2300006: granny_left_eye_geo
+    2300008: granny_right_eye_geo
+    2300010: granny_teeth_lower
+    2300012: granny_teeth_upper
+    3300000: granny_body_geo
+    3300002: granny_gum_lower
+    3300004: granny_gum_upper
+    3300006: granny_left_eye_geo
+    3300008: granny_right_eye_geo
+    3300010: granny_teeth_lower
+    3300012: granny_teeth_upper
+    4300000: granny_body_geo
+    4300002: granny_right_eye_geo
+    4300004: granny_left_eye_geo
+    4300006: granny_teeth_upper
+    4300008: granny_teeth_lower
+    4300010: granny_gum_upper
+    4300012: granny_gum_lower
+    9500000: //RootNode
+    11100000: //RootNode
+    13700000: granny_body_geo
+    13700002: granny_gum_lower
+    13700004: granny_gum_upper
+    13700006: granny_left_eye_geo
+    13700008: granny_right_eye_geo
+    13700010: granny_teeth_lower
+    13700012: granny_teeth_upper
+    2186277476908879412: ImportLogs
+  externalObjects: {}
+  materials:
+    importMaterials: 0
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 1
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 0.01
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 180
+    normalImportMode: 1
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton:
+    - name: justGranny(Clone)
+      parentName: 
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: granny_body_grp
+      parentName: justGranny(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: granny_body_geo
+      parentName: granny_body_grp
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: granny_right_eye_geo
+      parentName: granny_body_grp
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: granny_left_eye_geo
+      parentName: granny_body_grp
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: granny_teeth_upper
+      parentName: granny_body_grp
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: granny_teeth_lower
+      parentName: granny_body_grp
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: granny_gum_upper
+      parentName: granny_body_grp
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: granny_gum_lower
+      parentName: granny_body_grp
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: granny_root_bind_joint
+      parentName: justGranny(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: center_root_bind_joint
+      parentName: granny_root_bind_joint
+      position: {x: 2.7639236e-21, y: 0.6805601, z: 1.8764788}
+      rotation: {x: -0.000003438198, y: -0.7071068, z: 0.000003438198, w: 0.7071068}
+      scale: {x: 1, y: 1, z: 1}
+    - name: center_chest_bind_joint
+      parentName: center_root_bind_joint
+      position: {x: -0.91481316, y: 0.00017236898, z: -0.0000001373151}
+      rotation: {x: -1.2699532e-12, y: -0.000000030137976, z: -0.00004213797, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: center_dorsal_fin_1_bind_joint
+      parentName: center_chest_bind_joint
+      position: {x: -0.36024693, y: 0.9448254, z: 0.0000014817467}
+      rotation: {x: 0.7671089, y: -0.64151686, z: 0.000003301824, w: -0.000003715626}
+      scale: {x: 1, y: 1, z: 1}
+    - name: center_dorsal_fin_2_bind_joint
+      parentName: center_dorsal_fin_1_bind_joint
+      position: {x: -0.26237193, y: -1.6109567e-11, z: -0.00000090259226}
+      rotation: {x: -0.0000090937565, y: -0.0000034457537, z: -0.18334357, w: 0.9830489}
+      scale: {x: 1, y: 1, z: 1}
+    - name: center_dorsal_fin_3_bind_joint
+      parentName: center_dorsal_fin_2_bind_joint
+      position: {x: -0.36571497, y: -4.112877e-11, z: 3.2754452e-16}
+      rotation: {x: 0, y: -0, z: -0.02979596, w: 0.999556}
+      scale: {x: 1, y: 1, z: 1}
+    - name: center_dorsal_fin_end_joint
+      parentName: center_dorsal_fin_3_bind_joint
+      position: {x: -0.40511793, y: 8.498902e-16, z: 1.1590728e-15}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: center_tail_1_bind_joint
+      parentName: center_chest_bind_joint
+      position: {x: -1.2680894, y: -8.5265126e-16, z: -7.373512e-15}
+      rotation: {x: -3.9024974e-11, y: 0.0000011152066, z: 0.000034993354, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: center_tail_2_bind_joint
+      parentName: center_tail_1_bind_joint
+      position: {x: -0.86353874, y: -2.8421708e-15, z: 3.879927e-12}
+      rotation: {x: -1.482127e-11, y: 0.0000009114271, z: 0.000016261607, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: center_tail_3_bind_joint
+      parentName: center_tail_2_bind_joint
+      position: {x: -0.8691537, y: -9.237055e-15, z: -0.000000004967334}
+      rotation: {x: 1.1503713e-11, y: -0.0000023497096, z: 0.000004895802, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: center_tail_4_bind_joint
+      parentName: center_tail_3_bind_joint
+      position: {x: -0.7052639, y: -9.947598e-16, z: 3.1687743e-12}
+      rotation: {x: -1.3968063e-13, y: -0.00000120264, z: -0.000000116145, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: center_tail_5_bind_joint
+      parentName: center_tail_4_bind_joint
+      position: {x: -0.56038815, y: -8.5265126e-16, z: 2.5178431e-12}
+      rotation: {x: -5.734394e-12, y: -0.0000015331025, z: -0.0000037403852, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: center_tail_6_bind_joint
+      parentName: center_tail_5_bind_joint
+      position: {x: -0.4595624, y: -5.684342e-16, z: 2.0648453e-12}
+      rotation: {x: 2.9729753e-11, y: 0.0000028649931, z: -0.0000103769025, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: center_tail_end_joint
+      parentName: center_tail_6_bind_joint
+      position: {x: -0.41257957, y: -5.0206554e-16, z: -9.481475e-22}
+      rotation: {x: 0.00000072656775, y: 0.0000000111560565, z: -0.0153526515, w: 0.99988216}
+      scale: {x: 1, y: 1, z: 1}
+    - name: left_fluke_1_bind_joint
+      parentName: center_tail_6_bind_joint
+      position: {x: -0.05947716, y: -0.06910091, z: 0.26468113}
+      rotation: {x: 0.05014548, y: 0.45065287, z: -0.045793638, w: 0.8901126}
+      scale: {x: 1, y: 1, z: 1}
+    - name: left_fluke_2_bind_joint
+      parentName: left_fluke_1_bind_joint
+      position: {x: -0.2696584, y: 0.00141396, z: -0.00000023950557}
+      rotation: {x: 0.0000000017797881, y: -0.00000044446216, z: 0.03216092, w: 0.99948275}
+      scale: {x: 1, y: 1, z: 1}
+    - name: left_fluke_3_bind_joint
+      parentName: left_fluke_2_bind_joint
+      position: {x: -0.2988132, y: 0.0005986414, z: -1.7053025e-15}
+      rotation: {x: 0, y: 0, z: 0.03216086, w: 0.99948275}
+      scale: {x: 1, y: 1, z: 1}
+    - name: left_fluke_end_joint
+      parentName: left_fluke_3_bind_joint
+      position: {x: -0.341879, y: -5.684342e-16, z: -5.684342e-16}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: right_fluke_1_bind_joint
+      parentName: center_tail_6_bind_joint
+      position: {x: -0.05948343, y: -0.06909675, z: -0.2646801}
+      rotation: {x: -0.4506528, y: 0.050144188, z: 0.89011264, w: 0.045794293}
+      scale: {x: 1, y: 1, z: 1}
+    - name: right_fluke_2_bind_joint
+      parentName: right_fluke_1_bind_joint
+      position: {x: 0.26965123, y: -0.0014085424, z: -0.000013186334}
+      rotation: {x: -0.0000000017698711, y: 0.00000044446125, z: 0.0321608, w: 0.99948275}
+      scale: {x: 1, y: 1, z: 1}
+    - name: right_fluke_3_bind_joint
+      parentName: right_fluke_2_bind_joint
+      position: {x: 0.2988149, y: -0.0006003155, z: 0.000003882929}
+      rotation: {x: 0.000000012898109, y: 4.1502884e-10, z: 0.03216086, w: 0.99948275}
+      scale: {x: 1, y: 1, z: 1}
+    - name: right_fluke_end_joint
+      parentName: right_fluke_3_bind_joint
+      position: {x: 0.34188455, y: -0.00000390305, z: 0.00000710893}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: center_neck_bind_joint
+      parentName: center_root_bind_joint
+      position: {x: -2.842171e-16, y: 4.2632563e-16, z: 1.8191909e-17}
+      rotation: {x: 2.3642407e-11, y: 0.000004862346, z: -0.000004862346, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: center_head_bind_joint
+      parentName: center_neck_bind_joint
+      position: {x: 0.5159519, y: 0.07289773, z: -3.6040397e-16}
+      rotation: {x: 0, y: 1.110223e-16, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: center_head_end_joint
+      parentName: center_head_bind_joint
+      position: {x: -0.0016042327, y: 0.53971994, z: 7.7275795e-16}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: center_front_blowhole_base_bind_joint
+      parentName: center_head_bind_joint
+      position: {x: 0.29808915, y: 0.5037839, z: -1.766842e-15}
+      rotation: {x: -1.2808994e-15, y: 3.9512808e-16, z: 0.20306893, w: 0.9791645}
+      scale: {x: 1, y: 1, z: 1}
+    - name: center_front_blowhole_base_end_joint
+      parentName: center_front_blowhole_base_bind_joint
+      position: {x: -0.062206864, y: 0, z: 1.3812699e-17}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: center_front_blowhole_1_bind_joint
+      parentName: center_front_blowhole_base_bind_joint
+      position: {x: -0.11055084, y: 0.017421044, z: -0.043728657}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: center_front_blowhole_2_bind_joint
+      parentName: center_front_blowhole_base_bind_joint
+      position: {x: -0.062206864, y: 0, z: 1.3812699e-17}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: center_front_blowhole_3_bind_joint
+      parentName: center_front_blowhole_base_bind_joint
+      position: {x: -0.11055084, y: 0.017421044, z: 0.043728657}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: center_back_blowhole_base_bind_joint
+      parentName: center_head_bind_joint
+      position: {x: 0.08076065, y: 0.5324922, z: -1.8018993e-15}
+      rotation: {x: 0.17729177, y: 0.98415834, z: -1.7759291e-15, w: 7.459502e-16}
+      scale: {x: 1, y: 1, z: 1}
+    - name: center_back_blowhole_base_end_joint
+      parentName: center_back_blowhole_base_bind_joint
+      position: {x: -0.020577634, y: -1.2456496e-16, z: 2.8729515e-17}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: center_back_blowhole_1_bind_joint
+      parentName: center_back_blowhole_base_bind_joint
+      position: {x: -0.025849095, y: -0.008582153, z: 0.04853462}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: center_back_blowhole_2_bind_joint
+      parentName: center_back_blowhole_base_bind_joint
+      position: {x: -0.020577634, y: -1.1310397e-16, z: 2.8729515e-17}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: center_back_blowhole_3_bind_joint
+      parentName: center_back_blowhole_base_bind_joint
+      position: {x: -0.025849095, y: -0.008582153, z: -0.04853462}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: center_jaw_bind_joint
+      parentName: center_head_bind_joint
+      position: {x: 0.023676414, y: -0.000062126775, z: -1.7347234e-20}
+      rotation: {x: -2.6815425e-18, y: -4.310638e-15, z: 0.9999993, w: -0.001187604}
+      scale: {x: 1, y: 1, z: 1}
+    - name: center_jaw_end_joint
+      parentName: center_jaw_bind_joint
+      position: {x: -0.9595635, y: 0.1388059, z: 7.0436163e-16}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: right_eye_bind_joint
+      parentName: center_head_bind_joint
+      position: {x: 0.5245192, y: 0.054139588, z: -0.3037875}
+      rotation: {x: 1, y: 1.6543592e-24, z: -5.2509266e-16, w: 0.000000007450581}
+      scale: {x: 1, y: 1, z: 1}
+    - name: right_eye_end_joint
+      parentName: right_eye_bind_joint
+      position: {x: 0.132025, y: 0, z: 3.5527136e-17}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: left_eye_bind_joint
+      parentName: center_head_bind_joint
+      position: {x: 0.5245087, y: 0.054140404, z: 0.30378735}
+      rotation: {x: -6.123234e-17, y: 1, z: 6.123234e-17, w: 2.0902504e-32}
+      scale: {x: 1, y: 1, z: 1}
+    - name: left_eye_end_joint
+      parentName: left_eye_bind_joint
+      position: {x: -0.13203491, y: -2.2015044e-33, z: -7.267173e-16}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: left_flipper_1_bind_joint
+      parentName: center_root_bind_joint
+      position: {x: -0.37757128, y: -0.37921363, z: 0.6547502}
+      rotation: {x: -0.17047788, y: 0.22330114, z: 0.52595717, w: 0.80277205}
+      scale: {x: 1, y: 1, z: 1}
+    - name: left_flipper_2_bind_joint
+      parentName: left_flipper_1_bind_joint
+      position: {x: -0.43122604, y: 0.0045002345, z: -0.0030852547}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: left_flipper_3_bind_joint
+      parentName: left_flipper_2_bind_joint
+      position: {x: -0.43181255, y: 0.004789262, z: 0.0016921652}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: left_flipper_end_joint
+      parentName: left_flipper_3_bind_joint
+      position: {x: -0.33269173, y: 2.131628e-15, z: 7.105427e-16}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: right_flipper_1_bind_joint
+      parentName: center_root_bind_joint
+      position: {x: -0.37757137, y: -0.37921268, z: -0.65475}
+      rotation: {x: 0.22330114, y: 0.17047788, z: -0.80277205, w: 0.52595717}
+      scale: {x: 1, y: 1, z: 1}
+    - name: right_flipper_2_bind_joint
+      parentName: right_flipper_1_bind_joint
+      position: {x: 0.43122715, y: -0.0044988617, z: 0.003084403}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: right_flipper_3_bind_joint
+      parentName: right_flipper_2_bind_joint
+      position: {x: 0.43181244, y: -0.0047895354, z: -0.0016908733}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: right_flipper_end_joint
+      parentName: right_flipper_3_bind_joint
+      position: {x: 0.3326909, y: -0.00000007243078, z: -0.0000004608925}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 1
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

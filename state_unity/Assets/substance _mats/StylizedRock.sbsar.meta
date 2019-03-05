@@ -1,0 +1,94 @@
+fileFormatVersion: 2
+guid: f809af93da40a30498f3a8b6b2916f70
+ScriptedImporter:
+  fileIDToRecycleName:
+    100000: StylizedRock/StylizedRock
+    400000: StylizedRock/StylizedRock/Transform
+    2100000: StylizedRock
+    2300000: StylizedRock/StylizedRock/MeshRenderer
+    2800000: StylizedRock - height
+    2800002: StylizedRock - baseColor
+    2800004: StylizedRock - normal
+    2800006: StylizedRock - roughness
+    3300000: StylizedRock/StylizedRock/MeshFilter
+    11400000: sbsar
+    11400002: graph0
+    13500000: StylizedRock/StylizedRock/SphereCollider
+    100100000: StylizedRock
+    2186277476908879412: ImportLogs
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 232528478, guid: 43a8bbf65be290d44ba52b94476242b9, type: 3}
+  version: 17
+  mGraphInstanceData:
+  - graphLabel: StylizedRock
+    prototypeName: StylizedRock
+    graphDescIndex: 0
+    generateAllOutputs: 1
+    generateMipMaps: 1
+    preset: " <sbspreset pkgurl=\"pkg://StylizedRock\" label=\"\" >\n  <presetinput
+      identifier=\"$outputsize\" uid=\"2184748917\" type=\"8\" value=\"10,10\" />\n
+      \ <presetinput identifier=\"General_Base_color\" uid=\"4075186257\" type=\"3\"
+      value=\"0.462264,0.329254,0.329254,1\" />\n  <presetinput identifier=\"edge_highlight\"
+      uid=\"4045165041\" type=\"0\" value=\"1.56\" />\n  <presetinput identifier=\"General_Hide_tertiary_layer\"
+      uid=\"4075239502\" type=\"4\" value=\"1\" />\n  <presetinput identifier=\"General_Tiling\"
+      uid=\"4075239496\" type=\"4\" value=\"5\" />\n  <presetinput identifier=\"General_Height_Variation\"
+      uid=\"4075239498\" type=\"0\" value=\"0.691\" />\n  <presetinput identifier=\"General_Size_Variation\"
+      uid=\"4075239860\" type=\"0\" value=\"0.75\" />\n  <presetinput identifier=\"General_Rotation_Variation\"
+      uid=\"4075239862\" type=\"0\" value=\"143\" />\n  <presetinput identifier=\"moss_use_normal_channel\"
+      uid=\"4045337922\" type=\"4\" value=\"1\" />\n  <presetinput identifier=\"moss_normal_range\"
+      uid=\"4045325445\" type=\"0\" value=\"0.446\" />\n  <presetinput identifier=\"moss_normal_softness\"
+      uid=\"4045324639\" type=\"0\" value=\"0.757\" />\n  <presetinput identifier=\"Moss_Moss_Density\"
+      uid=\"4075227409\" type=\"0\" value=\"0.809\" />\n  <presetinput identifier=\"Snow_Use_normal_channel\"
+      uid=\"4075330900\" type=\"4\" value=\"0\" />\n  <presetinput identifier=\"Snow_Mask_Contrast\"
+      uid=\"4075330910\" type=\"0\" value=\"0\" />\n  <presetinput identifier=\"Snow_Thickness\"
+      uid=\"4075330904\" type=\"0\" value=\"0\" />\n </sbspreset>\n"
+    shaderName: LightweightPipeline/Standard (Physically Based)
+    outputNames: height,baseColor,normal
+    texturePackingList:
+    - outputName: height
+      alphaSource: height
+    - outputName: baseColor
+      alphaSource: baseColor
+    - outputName: normal
+      alphaSource: normal
+    - outputName: roughness
+      alphaSource: roughness
+    textureParameters:
+    - textureName: StylizedRock - height
+      wrapMode: 0
+      filterMode: 1
+      aniso: 1
+    - textureName: StylizedRock - baseColor
+      wrapMode: 0
+      filterMode: 1
+      aniso: 1
+    - textureName: StylizedRock - normal
+      wrapMode: 0
+      filterMode: 1
+      aniso: 1
+    - textureName: StylizedRock - roughness
+      wrapMode: 0
+      filterMode: 1
+      aniso: 1
+    colorSpaceList:
+    - outputName: height
+      bLinear: 1
+    - outputName: baseColor
+      bLinear: 0
+    - outputName: normal
+      bLinear: 1
+    - outputName: roughness
+      bLinear: 1
+    inputTextureMap: []
+    targetSettingList:
+    - label: 
+      bLockRatio: 1
+      textureWidth: 1024
+      textureHeight: 1024
+      textureFormat: 0
+      bGenerateOnLoad: 1
+    material: {fileID: 2100000, guid: f809af93da40a30498f3a8b6b2916f70, type: 3}
+    generatedTextures: []
